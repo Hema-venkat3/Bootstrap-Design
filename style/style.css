@@ -12,12 +12,35 @@
     border-radius: 5px;
 }
 
+.name {
+    margin: 0 30px;
+    color: #FA0427FA;
+    text-decoration: none;
+}
+
+.size {
+    font-weight: 500;
+}
+
+.main p {
+    width: 450px;
+    line-height: 45px;
+}
+
 .color {
     color: white;
 }
 
+.main {
+    padding: 130px;
+}
+
+.top_section {
+    display: flex;
+    background-color: black;
+}
+
 .spacing {
-    margin-top: 0;
-    padding-top: 0;
-    margin-bottom: 10px;
+    margin-top: 80px;
+    padding-top: 50px;
 }
